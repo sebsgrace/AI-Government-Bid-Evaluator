@@ -1,0 +1,5 @@
+{
+  "name": "AI Government Bid Evaluator",
+  "description": "An AI-powered application to analyze and evaluate government project bids, detecting potential fraud, conflicts of interest, and inconsistencies to ensure transparency and accountability in public procurement.",
+  "requestFramePermissions": []
+}
